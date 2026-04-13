@@ -1,0 +1,6 @@
+# Install PyTorch and torchvision first using the official instructions for
+# your platform and CUDA version, then install this file.
+numpy
+Pillow
+timm
+wandb

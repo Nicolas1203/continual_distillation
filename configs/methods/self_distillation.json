@@ -1,0 +1,5 @@
+{
+  "method_label": "self-distillation",
+  "temperature": 10.0,
+  "old_student_weight": 1.0
+}

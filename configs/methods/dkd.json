@@ -1,0 +1,6 @@
+{
+  "method_label": "DKD",
+  "dkd_alpha": 1.0,
+  "dkd_beta": 8.0,
+  "dkd_temperature": 10.0
+}
